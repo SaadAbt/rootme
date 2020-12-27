@@ -11,7 +11,7 @@
         <link>http://www.example.org</link>
         <item>
             <title>Actualité N°1</title>
-            <description>Ceci est ma première actualité</description>
+            <description>&xxe</description>
             <pubDate>Sat, 07 Sep 2002 00:00:01 GMT</pubDate>
             <link>http://www.example.org/actu1</link>
         </item>
